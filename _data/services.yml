@@ -1,0 +1,23 @@
+- image: "img/250x250_sand_and_stain.jpg"
+  title: "Sand & Finish"
+  description: "The most popular choice for revitalizing old hardwood floors, the process consists of sanding, buffing, staining and finishing."
+
+- image: "img/250x250_buffer_flooring.jpg"
+  title: "Buff & Coat"
+  description: "A buff & coat is most appropriate for floors that are in good condition, but could use a bit of a polish."
+
+- image: "img/250x250_floor_stain.png"
+  title: "Staining"
+  description: "Staining is an optional part of the sand & finish process. Staining a floor can also help hide water damage and pet stains."
+
+- image: "img/250x250_floor_repair.jpg"
+  title: "Repairs"
+  description: "Damaged floorboards can be removed and replaced with closely-matching boards."
+
+- image: "img/250x250_game_lines.jpg"
+  title: "Gym Lines"
+  description: "For gymnasiums, game lines and custom logos can be taped and painted"
+
+- image: "img/250x250_wood_stairs.jpg"
+  title: "Stair Treads"
+  description: "Wooden stair treads can be refinished at the same time as a main floor area."
