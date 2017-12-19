@@ -182,6 +182,12 @@ px      68    160    252    */
   #slider .block {
     padding-left: 0px;
   }
+  #testimonial,
+  #global-header {
+    background-position:center;
+    background-size: cover;
+    background-width: 100%;
+  }
   /*--
 	wrapper Start 
 --*/
