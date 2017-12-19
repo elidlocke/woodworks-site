@@ -16,9 +16,9 @@
 title: Woodworks Refinishing
 email: ben@woodworksrefinishing.com
 description: >- # this means to ignore newlines until "baseurl:"
-    This is a website that has a lot of awesome feautures. It 
-    is about a lot of things including some very important keywords.
-    Did I mention that other keyword and keyword? 
+    Woodworks Hardwood Refinishing offers hardwood floor refinishing services
+    to homeowners, apartment building owners, businesses and public boards
+    in the Kitchener, Waterloo, Cambridge and surrounding areas of Ontario.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "woodworksrefinishing.com" # the base hostname & protocol for your site, e.g. http://example.com
 

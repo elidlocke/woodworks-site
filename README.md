@@ -1,2 +1,2 @@
 # Woodworks Refinishing
-This is a repo built with jekyll & liquid templates to use as a small business website for a floor refinisher. 
+This is a small business website and blog built with jekyll & liquid.
