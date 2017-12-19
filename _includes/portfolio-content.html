@@ -14,94 +14,19 @@
               </div>
               <div class="portfolio-content">
                 <ul id="portfolio-content-active">
-                  <li class="mix Residential">
+                  {% for project in site.data.projects %}
+                  <li class="mix {{ project.tags }}">
                     <a>
                       <div class="portfolio-img">
-                        <img src="img/portfolio/home_05/downstairs_grand_ave.jpg" alt="">
+                        <img src="{{ project.image }}" alt="">
                       </div>
                       <div class="title">
-                          <h2> Sand & Finish</h2>
-                          <p>Residential House</p>
+                          <h2>{{ project.title }}</h2>
+                          <p>{{ project.property }}</p>
                       </div>
                     </a>
                   </li>
-                  <li class="mix Residential">
-                    <a>
-                      <div class="portfolio-img">
-                        <img src="img/portfolio/home_06/upstairs_hardwood_floor6.jpg" alt="">
-                      </div>
-                      <div class="title">
-                          <h2> Sand, Repair & Finish</h2>
-                          <p>Residential House</p>
-                      </div>
-                    </a>
-                  </li>
-                  <li class="mix Commercial">
-                    <a>
-                      <div class="portfolio-img">
-                        <img src="img/portfolio/commercial_01/artisan_zone_thumb.jpg" alt="">
-                      </div>
-                      <div class="title">
-                          <h2>Sand & Finish</h2>
-                          <p>Artisan Zone Store</p>
-                      </div>
-                    </a>
-                  </li>
-                  <li class="mix Residential">
-                    <a>
-                      <div class="portfolio-img">
-                        <img src="img/portfolio/home_01/hardwood_floors_home_1_08.JPG" alt="">
-                      </div>
-                      <div class="title">
-                          <h2>Sand & Finish</h2>
-                          <p>Residential Apartment</p>
-                      </div>
-                    </a>
-                  </li>
-                  <li class="mix Residential">
-                    <a>
-                      <div class="portfolio-img">
-                        <img src="img/portfolio/home_02/hardwood_floors_home_2_02.JPG" alt="">
-                      </div>
-                      <div class="title">
-                          <h2>Buff & Coat</h2>
-                          <p>Residential Apartment</p>
-                      </div>
-                    </a>
-                  </li>
-                  <li class="mix Residential">
-                    <a>
-                      <div class="portfolio-img">
-                        <img src="img/portfolio/home_03/hardwood_floors_home_3_05.JPG" alt="">
-                      </div>
-                      <div class="title">
-                          <h2>Sand, Stain & Finish</h2>
-                          <p>Residential Apartment</p>
-                      </div>
-                    </a>
-                  </li>
-                  <li class="mix Residential">
-                    <a>
-                      <div class="portfolio-img">
-                        <img src="img/portfolio/home_04/hardwood_floors_home_4_03.JPG" alt="">
-                      </div>
-                      <div class="title">
-                          <h2>Sand, Stain & Finish</h2>
-                          <p>Residential Apartment</p>
-                      </div>
-                    </a>
-                  </li>
-                  <li class="mix Commercial Gymnasiums">
-                    <a>
-                      <div class="portfolio-img">
-                        <img src="img/portfolio/gym_01/gymnasium_01_thumb.JPG" alt="">
-                      </div>
-                      <div class="title">
-                          <h2>Sand, Paint & Finish</h2>
-                          <p>KW Billingual Gym</p>
-                      </div>
-                    </a>
-                  </li>
+                  {% endfor %}
                 </ul>
               </div>
             </div>

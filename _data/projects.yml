@@ -1,0 +1,44 @@
+- image: "img/portfolio/home_05/home_05_thumb.jpg"
+  title: "Sand & Finish"
+  property: "Residential House"
+  tags: "Residential"
+
+- image: "img/portfolio/home_06/home_06_thumb.jpg"
+  title: "Sand, Repair & Finish"
+  property: "Residential House"
+  tags: "Residential"
+
+- image: "img/portfolio/commercial_01/artisan_zone_thumb.jpg"
+  title: "Sand & Finish"
+  property: "Artisan Zone Store"
+  tags: "Commercial"
+
+- image: "img/portfolio/home_01/home_01_thumb.jpg"
+  title: "Sand & Finish"
+  property: "Residential Apartment"
+  tags: "Residential"
+
+- image: "img/portfolio/home_02/home_02_thumb.jpg"
+  title: "Buff & Coat"
+  property: "Residential Apartment"
+  tags: "Residential"
+
+- image: "img/portfolio/home_03/home_03_thumb.jpg"
+  title: "Sand, Stain & Finish"
+  property: "Residential Apartment"
+  tags: "Residential"
+
+- image: "img/portfolio/home_04/home_04_thumb.jpg"
+  title: "Sand, Stain & Finish"
+  property: "Residential Apartment"
+  tags: "Residential"
+
+- image: "img/portfolio/home_07/home_07_thumb.jpg"
+  title: "Sand & Finish"
+  property: "Residential House"
+  tags: "Residential"
+
+- image: "img/portfolio/gym_01/gymnasium_01_thumb.jpg"
+  title: "Sand, Paint & Finish"
+  property: "KW Billingual Gymnasium"
+  tags: "Commercial Gymnasiums"
