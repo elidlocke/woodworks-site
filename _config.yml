@@ -24,9 +24,10 @@ url: "https://elidlocke.github.io/woodworks-site/" # the base hostname & protoco
 
 # Build settings
 markdown: kramdown
-permalink: none
+permalink: /:slug
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 defaults:
   -
