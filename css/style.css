@@ -329,7 +329,7 @@ about
   font-family: 'Volkhov', serif;
   font-style: italic;
 
-  background: url("../img/wood and brick-bg.jpg") no-repeat;
+  background: url("../img/wood-and-brick-bg.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   position: relative;
@@ -534,7 +534,7 @@ about
   transition: all 0.4s ease-in-out;
 }
 #portfolio-work .block .portfolio-content ul li {
-  float: left;
+  float: center;
   width: 31.6%;
   overflow: hidden;
   margin: 6px;

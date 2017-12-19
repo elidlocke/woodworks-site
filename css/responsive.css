@@ -182,12 +182,6 @@ px      68    160    252    */
   #slider .block {
     padding-left: 0px;
   }
-  #testimonial,
-  #global-header {
-    background-position:center;
-    background-size: cover;
-    background-width: 100%;
-  }
   /*--
 	wrapper Start 
 --*/
@@ -330,9 +324,21 @@ px      68    160    252    */
     line-height: 20px;
     padding-top: 15px;
   }
+    /*--
+  images start 
+  --*/
+  #testimonial {
+    background: url("../img/mobile_wood_and_brick_bg.jpg") no-repeat;
+  }
+  #global-header {
+    background: url("../img/mobile_wood_floor_refinished_natural.jpg") no-repeat;
+  }
+  #call-to-action {
+    background: url("../img/mobile_call_to_action_bg.png") no-repeat;
+  }
   /*--
 	features Start 
---*/
+  --*/
   #features-work .block ul li {
     display: block;
     width: 100%;
