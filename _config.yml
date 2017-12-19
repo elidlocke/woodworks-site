@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     is about a lot of things including some very important keywords.
     Did I mention that other keyword and keyword? 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://woodworksrefinishing.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "woodworksrefinishing.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
