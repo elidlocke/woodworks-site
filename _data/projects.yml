@@ -33,10 +33,10 @@
   property: "Residential Apartment"
   tags: "Residential"
 
-- image: "img/portfolio/home_07/home_07_thumb.jpg"
-  title: "Sand & Finish"
-  property: "Residential House"
-  tags: "Residential"
+- image: "img/portfolio/gym_02/gymnasium_02_thumb.jpg"
+  title: "Sand, Paint & Finish"
+  property: "Catholic School Board"
+  tags: "Commercial Gymnasiums"
 
 - image: "img/portfolio/gym_01/gymnasium_01_thumb.jpg"
   title: "Sand, Paint & Finish"
