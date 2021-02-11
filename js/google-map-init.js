@@ -127,10 +127,10 @@ jQuery(document).ready(function() {
             b = document.getElementById("map"),
             c = new google.maps.Map(b, a);
         new google.maps.Circle({
-              strokeColor: 'rgb(222,184,135)',
+              strokeColor: 'rgb(213,92,25)',
               strokeOpacity: 0.8,
               strokeWeight: 2,
-              fillColor: 'rgb(222,184,135)',
+              fillColor: 'rgb(213,92,25)',
               fillOpacity: 0.35,
               map: c,
               center: {lat: 43.45, lng: -80.48},

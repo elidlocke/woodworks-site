@@ -35,15 +35,8 @@
     {{ content }}
     
     <!-- footer Start -->
-    <footer>
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            &copy Woodworks Refinishing
-          </div>
-        </div>
-      </div>
-    </footer>
+    {% include footer.html %}
+
 
     <!-- Js -->
     <script src="js/vendor/modernizr-2.6.2.min.js"></script>
@@ -53,7 +46,7 @@
     <script src="js/owl.carousel.min.js"></script>
     <script src="js/plugins.js"></script>
     <script src="js/min/waypoints.min.js"></script>
-
+    <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
     <script src="js/main.js"></script>
 
     {% if page.title == 'Contact' or page.title == 'Thanks!' %}
@@ -62,10 +55,7 @@
           type="text/javascript">
     </script>
     <script src="js/google-map-init.js"></script>
-    {% endif %}
-  <!--
-  <script>document.write('<script src="https://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
-  -->      
+    {% endif %}  
     
     </body>
 </html>

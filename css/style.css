@@ -51,7 +51,7 @@ a:active {
 .section-title p {
   font-family: 'Volkhov', serif;
   font-style: italic;
-  color: #666;
+  color: #65666A;
 }
 .btn-primary {
     color: #fff;
@@ -59,8 +59,8 @@ a:active {
     border-color: #333;
 }
 .btn-primary:hover {
-    background-color: #666;
-    border-color: #666;
+    background-color: #65666A;
+    border-color: #65666A;
 }
 .btn-inverse {
     color: #333;
@@ -68,8 +68,12 @@ a:active {
     border-color: #333;
 }
 .btn-inverse:hover {
-    background-color: #666;
+    background-color: #65666A;
     color: #fff;
+}
+ion-icon {
+  color: #333;
+  font-size: 100px;
 }
 /*--
 	Header Start 
@@ -114,7 +118,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start 
 --*/
 #slider {
-  background: url("../img/wood_floor_refinished_natural.jpg") no-repeat;
+  background: url("../img/ontario-mortgage-agent-banner.jpg") no-repeat;
   background-size: cover;
   background-position: 10% 0%;
   padding: 250px 0 250px 0;
@@ -137,6 +141,7 @@ about
 --*/
 #about-header{
   padding-left: 15px;
+  color: #333;
 }
 #profile-picture{
   margin-top: 30px;
@@ -172,12 +177,12 @@ about
   color: #333;
 }
 #blog h2 a:hover{
-  color: #666;
+  color: #65666A;
 }
 .blog-date{
   font-family: 'Volkhov', serif;
   font-style: italic;
-  color: #666;
+  color: #65666A;
 }
 .next-link a,
 .previous-link a{
@@ -185,7 +190,7 @@ about
 }
 .next-link a:hover,
 .previous-link a:hover{
-  color: #666;  
+  color: #65666A;  
 }
 /*
 .blog.section-title a{
@@ -206,7 +211,7 @@ about
   margin: 0;
 }
 #intro .block p {
-  color: #7B7B7B;
+  color: #65666A;
   padding-top: 20px;
 }
 #intro .block img {
@@ -231,26 +236,29 @@ about
 }
 #service .service-item i {
   font-size: 60px;
-  color: #4A4656;
+  color: #65666A;
 }
 #service .service-item h4 {
   padding-top: 20px;
   margin: 0;
-  color: #666;
+  color: #65666A;
 }
 #service .service-item p {
-  color: #888;
+  color: #65666A;
   padding-top: 10px;
   margin: 0;
   font-size: 14px;
   line-height: 1.8;
   height: 100px;
 }
+.services-preface{
+  padding: 10px 40px 0 40px;
+}
 /*--
 	call-to-action Start 
 --*/
 #call-to-action {
-  background: url("../img/call-to-action-bg.png") no-repeat;
+  background: url("../img/ontario-mortgage-agent-cta.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   padding: 70px 0px;
@@ -271,9 +279,9 @@ about
 #call-to-action .btn-call-to-action {
   padding: 15px 35px;
   border: none;
-  background-color: #fff;
+  background-color: #D55C19;
   font-size: 15px;
-  color: rgb(160,82,45);
+  color: #fff;
   margin-top: 30px;
 }
 
@@ -285,7 +293,7 @@ about
 	Feature Start 
 --*/
 #feature {
-  background: url("../img/featue-bg.jpg");
+  background: url("../img/ontario-mortgage-agent-cta.jpg");
   background-position: 50% 94px;
   width: 100%;
   display: block;
@@ -312,11 +320,11 @@ about
   margin-bottom: 30px;
 }
 #feature p {
-  color: #8d8f92;
+  color: #65666A;
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
-  background: #655E7A;
+  background: #65666A;
   color: #fff;
   padding: 10px 20px;
 }
@@ -329,7 +337,7 @@ about
   font-family: 'Volkhov', serif;
   font-style: italic;
 
-  background: url("../img/wood-and-brick-bg.jpg") no-repeat;
+  background: url("../img/kitchener-street-mortgage-agent-background.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   position: relative;
@@ -419,6 +427,20 @@ about
 #clients-logo-section .clients-logo-img {
   padding: 0px 50px;
 }
+
+.nav-logo-wrapper {
+  height: 50px;
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  overflow: hidden;
+  vertical-align: bottom;
+}
+.nav-logo {
+  flex-shrink: 0;
+  height: 100%;
+
+}
 /*---------------------------------------------
 					Work Start 
 -----------------------------------------------*/
@@ -426,7 +448,7 @@ about
 	Slider-work Start 
 --*/
 #global-header {
-  background: url("../img/wood_floor_refinished_natural.jpg") no-repeat;
+  background: url("../img/ontario-mortgage-agent-banner.jpg") no-repeat;
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
@@ -464,234 +486,9 @@ about
   letter-spacing: 1px;
   word-spacing: 3px;
 }
-/*--
-	portfolio-work Start 
---*/
-#portfolio-work {
-  overflow: hidden;
-  padding: 80px 0;
-}
-#portfolio-work .block .portfolio-menu {
-  padding-bottom: 30px;
-  text-align: center;
-}
-#portfolio-work .block .portfolio-menu ul {
-  border: 1px solid #999999;
-  display: inline-block;
-  margin-bottom: 40px;
-}
-#portfolio-work .block .portfolio-menu ul li {
-  display: inline-block;
-  padding: 0px 25px;
-  cursor: pointer;
-  font-size: 15px;
-  line-height: 40px;
-  font-weight: 600;
-  color: #333333;
-  text-transform: capitalize;
-  position: relative;
-}
-#portfolio-work .block .portfolio-menu ul .active {
-  color: #655E7A;
-  position: relative;
-}
-#portfolio-work .block .portfolio-menu ul .active:before {
-  content: "\f0d7";
-  position: absolute;
-  font-family: 'FontAwesome';
-  bottom: -18px;
-  font-size: 30px;
-  width: 20px;
-  left: 0px;
-  right: 0px;
-  top: 23px;
-  margin: 0 auto;
-  color: #fff;
-  text-shadow: 0 1px 0px rgba(0, 0, 0, 0.9);
-  -webkit-transition: all 0.4s ease-in-out;
-  -moz-transition: all 0.4s ease-in-out;
-  -o-transition: all 0.4s ease-in-out;
-  -ms-transition: all 0.4s ease-in-out;
-  transition: all 0.4s ease-in-out;
-}
-#portfolio-work .block .portfolio-menu ul li:hover:before {
-  content: "\f0d7";
-  position: absolute;
-  font-family: 'FontAwesome';
-  bottom: -18px;
-  font-size: 30px;
-  width: 20px;
-  left: 0px;
-  right: 0px;
-  top: 24px;
-  margin: 0 auto;
-  color: #fff;
-  text-shadow: 0 1px 0px rgba(0, 0, 0, 0.9);
-  -webkit-transition: all 0.4s ease-in-out;
-  -moz-transition: all 0.4s ease-in-out;
-  -o-transition: all 0.4s ease-in-out;
-  -ms-transition: all 0.4s ease-in-out;
-  transition: all 0.4s ease-in-out;
-}
-#portfolio-work .block .portfolio-content ul li {
-  float: center;
-  width: 31.6%;
-  overflow: hidden;
-  margin: 6px;
-  position: relative;
-}
-#portfolio-work .block .portfolio-content ul li:hover .overlay {
-  opacity: 1;
-}
-#portfolio-work .block .portfolio-content ul li:hover .position-center {
-  position: absolute;
-  top: 50%;
-  -webkit-transform: translate(0%, -50%);
-  -moz-transform: translate(0%, -50%);
-  -ms-transform: translate(0%, -50%);
-  transform: translate(0%, -50%);
-}
-#portfolio-work .block .portfolio-content ul li a {
-  display: block;
-  color: #fff;
-}
-#portfolio-work .block .portfolio-content ul li a h2 {
-  font-size: 22px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-#portfolio-work .block .portfolio-content ul li a p {
-  font-family: 'Volkhov', serif;
-  font-style: italic;
-}
-#portfolio-work .block .portfolio-content ul li a span {
-  font-style: italic;
-  font-size: 13px;
-  color: #655E7A;
-}
-#portfolio-work .block .portfolio-content ul .portfolio-img {
-  display: inline-block;
-  position: relative;
-  width: 100%;
-  height: 30vh;
-  overflow: hidden;
-}
-#portfolio-work .block .portfolio-content ul img {
-  width: 100%;
-  position: absolute;
-  bottom: 0;
-}
-/*
-#portfolio-work .block .portfolio-content .overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  right: 0;
-  left: 0;
-  background: rgba(0, 0, 0, 0.9);
-  opacity: 0;
-  -webkit-transition: .3s all;
-  -o-transition: .3s all;
-  transition: .3s all;
-  text-align: center;
-  text-shadow: 0 0 3px #FF0000;
-}
-*/
-
-#portfolio-work .block .portfolio-content .title h2{
-  font-family: 'Open Sans', sans-serif;
-  font-size: 15px;
-  font-weight: 600;
-  color: #333333;
-  text-transform: capitalize;
-  margin: 0;
-}
-
-#portfolio-work .block .portfolio-content .position-center {
-  position: absolute;
-  top: 50%;
-  left: 10%;
-  -webkit-transform: translate(0%, 50%);
-  -moz-transform: translate(0%, 50%);
-  -ms-transform: translate(0%, 50%);
-  transform: translate(0%, 50%);
-  -webkit-transition: .5s all;
-  -o-transition: .5s all;
-  transition: .5s all;
-}
-#portfolio-work .block .mix {
-  display: none;
-}
 .title{
-  color: #666;
+  color: #65666A;
 }
-/*--
-	wrapper-work Start 
---*/
-#wrapper-work {
-  overflow: hidden;
-  padding-top: 100px;
-}
-#wrapper-work ul li {
-  width: 50%;
-  float: left;
-  position: relative;
-}
-#wrapper-work ul li img {
-  width: 100%;
-  height: 100%;
-}
-#wrapper-work ul li .items-text {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  width: 100%;
-  height: 100%;
-  color: #fff;
-  background: rgba(0, 0, 0, 0.6);
-  padding-left: 44px;
-  padding-top: 140px;
-}
-#wrapper-work ul li .items-text h2 {
-  padding-bottom: 28px;
-  padding-top: 75px;
-  position: relative;
-}
-#wrapper-work ul li .items-text h2:before {
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 75px;
-  height: 3px;
-  background: #fff;
-}
-#wrapper-work ul li .items-text p {
-  padding-top: 30px;
-  font-size: 16px;
-  line-height: 27px;
-  font-weight: 300;
-  padding-right: 80px;
-}
-/*--
-	features-work Start 
---*/
-#features-work {
-  padding-top: 50px;
-  padding-bottom: 75px;
-}
-#features-work .block ul li {
-  width: 19%;
-  text-align: center;
-  display: inline-block;
-  padding: 40px 0px;
-}
-/*---------------------------------------------
-					Work Close 
------------------------------------------------*/
-/*=============================================*/
 /*---------------------------------------------
 					 Contact Start 
 -----------------------------------------------*/
@@ -699,7 +496,7 @@ about
 	slider-contact Start 
 --*/
 #slider-contact {
-  background: url("../img/slider-bg2.jpg") no-repeat;
+  background: url("../img/ontario-mortgage-agent-cta.jpg") no-repeat;
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
@@ -714,7 +511,7 @@ about
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #928dab, #1f1c2c 70%);
+  background: linear-gradient(to left, #65666A, #1f1c2c 70%);
   opacity: 0.8;
 }
 #slider-contact .block {
@@ -821,7 +618,6 @@ about
 #contact-box .block h2 {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
-  color: #000;
   font-size: 28px;
   padding-bottom: 30px;
 }
@@ -830,10 +626,10 @@ about
   text-align: center;
   margin: 0;
   padding: 0 0 10px 0;
-  color: #00AA00;
+  color: #65666A;
 }
 #contact-box .block p {
-  color: #5C5C5C;
+  color: #65666A;
   display: block;
 }
 /*--
@@ -845,7 +641,7 @@ about
 }
 #features-contact .block ul li {
   width: 19%;
-  text-align: center;
+  text-align: center
   display: inline-block;
   padding: 40px 0px;
 }
@@ -874,10 +670,9 @@ about
 	footer Start 
 --*/
 footer {
-  background: #F5F5F5;
+  background: #fff;
   text-align: center;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding: 20px;
 }
 footer p {
   font-size: 13px;
@@ -900,8 +695,20 @@ footer .footer-menu ul li {
 }
 footer .footer-menu ul li a {
   display: inline-block;
-  color: #494949;
+  color: #65666A;
 }
 footer .footer-menu ul li a:hover {
   color: #000;
+}
+.footer-logo-wrapper {
+  height: 50px;
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  overflow: hidden;
+}
+.footer-logo {
+  flex-shrink: 0;
+  min-width:auto;
+  min-height: 100%;
 }
