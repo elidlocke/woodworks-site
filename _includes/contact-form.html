@@ -2,33 +2,59 @@
 <section id="contact-form">
   <div class="container">
     <div class="row">
-      <form action="https://formspree.io/ben@woodworksrefinishing.com" method="POST">
+      <script type="text/javascript">var submitted=false;</script>
+      <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='/thanks.html';}"></iframe>
+
+      <form
+        action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSdpeCSc5rkq2cUZV4MwYLmp5StK9EgQznYZbyNBb6wvWs2HpQ/formResponse"
+        method="POST"
+        target="hidden_iframe"
+        onsubmit="submitted=true;"
+      >
         <div class="col-md-6 col-sm-12">
           <div class="block">
-              <div class="form-group">
-                <input type="text" class="form-control" name="name" placeholder="Your Name">
-              </div>
-              <div class="form-group">
-                <input type="email" class="form-control" name="email" placeholder="Email Address">
-              </div>
-              <div class="form-group">
-                <input type="text" class="form-control" name="phone" placeholder="Phone Number">
-              </div>
+            <div class="form-group">
+              <input
+                type="text"
+                class="form-control"
+                name="entry.1433874617"
+                placeholder="Your Name"
+              />
             </div>
+            <div class="form-group">
+              <input
+                type="email"
+                class="form-control"
+                name="entry.1428038925"
+                placeholder="Email Address"
+              />
+            </div>
+            <div class="form-group">
+              <input
+                type="text"
+                class="form-control"
+                name="entry.1901683137"
+                placeholder="Phone Number"
+              />
+            </div>
+          </div>
         </div>
         <div class="col-md-6 col-sm-12">
           <div class="block">
-              <div class="form-group-2">
-                <textarea class="form-control" rows="3" name="message" placeholder="Your Message"></textarea>
-              </div>
-              <button class="btn btn-default" type="submit">Send Message</button>
+            <div class="form-group-2">
+              <textarea
+                class="form-control"
+                rows="3"
+                name="entry.2056018129"
+                placeholder="Your Message"
+              ></textarea>
+            </div>
+            <button class="btn btn-default" type="submit">Send Message</button>
           </div>
         </div>
         <input type="hidden" name="_next" value="/thanks.html" />
-        <input type="hidden" name="_subject" value="Woodworks Contact Form {{ site.time }}" />
       </form>
     </div>
-    {% include service-area.html%}
-    {% include contact-info.html%}
+    {% include service-area.html%} {% include contact-info.html%}
   </div>
 </section>

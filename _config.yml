@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Woodworks Refinishing
-email: ben@woodworksrefinishing.com
+title: Elizabeth Locke Mortgages
+email: elizabeth@lockemortgages.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Woodworks Hardwood Refinishing offers hardwood floor refinishing services
-    to homeowners, apartment building owners, businesses and public boards
-    in the Kitchener, Waterloo, Cambridge and surrounding areas of Ontario.
+    Elizabeth Locke offers mortgage financing services for purchasing,
+    renovating, transferring or re-financing mortgages in Kitchener,
+    Waterloo, Cambridge and surrounding areas of Ontario.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "woodworksrefinishing.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "lockemortgages.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
@@ -36,8 +36,8 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
-      author: "Ben Locke"
-      category: "hardwood refinishing"
+      author: "Elizabeth Locke"
+      category: "mortgage financing"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
