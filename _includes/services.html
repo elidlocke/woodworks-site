@@ -3,19 +3,26 @@
   <div class="container">
     <div class="row">
       <div class="section-title">
-        <h2>Our Services</h2>
-        <p>At Woodworks Hardwood Refinishing, we offer several different options for your floor. Deciding which option is the best fit for your hardwood will depend on the severity of your floor’s current condition and the look that you want to achieve.</p>
+        <h2>Services</h2>
+        <p class='services-preface'>
+          I offer a range of services to fit your mortgaging needs. Deciding
+          which option is best for you will depend on a variety of factors
+          including your credit score, salary, job history and current financials.
+          I would be happy to work with you to determine which product best suits
+          your needs.
+        </p>
       </div>
     </div>
     <div class="row">
       {% for service in site.data.services %}
       <div class="col-sm-6 col-md-4">
         <div class="service-item">
-          <img src="{{ service.image }}" alt="Img">
+          <ion-icon name="{{service.icon}}"></ion-icon>
           <h4>{{ service.title }}</h4>
           <p>{{ service.description }}</p>
         </div>
       </div>
       {% endfor %}
+    </div>
   </div>
 </section>
