@@ -23,19 +23,6 @@ $(document).ready(function(){
 		itemsDesktop : [1199,5],
 		itemsDesktopSmall : [979,5],
 	});
-
-
-	// google map
-		var map;
-		function initMap() {
-		  map = new google.maps.Map(document.getElementById('map'), {
-		    center: {lat: 43.45, lng: -80.48},
-		    zoom: 9
-		  });
-		}
-
 });
-
-
 
 

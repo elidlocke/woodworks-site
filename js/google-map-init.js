@@ -1,8 +1,7 @@
 jQuery(document).ready(function() {
     "use strict";
 
-
-    function b() {
+    function initMap() {
         var a = {
                 zoom: 9,
                 scrollwheel: false,
@@ -137,6 +136,5 @@ jQuery(document).ready(function() {
               radius: 22000
         });
     }
-    google.maps.event.addDomListener(window, "load", b);
-
+    google.maps.event.addDomListener(window, "load", initMap);
 });

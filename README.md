@@ -5,3 +5,7 @@ This is a small business website and blog built with jekyll & liquid. I chose th
 ## Live Site
 
 [Visit site](http://woodworksrefinishing.com/). Or type woodworksrefinishing.com into your browser URL.
+
+## Local dev
+
+bundle exec jekyll serve
