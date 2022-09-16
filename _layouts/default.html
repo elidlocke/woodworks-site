@@ -77,6 +77,21 @@
       gtag('js', new Date());
       gtag('config', 'AW-990419731');
     </script>
+    <!-- Event snippet for Submit lead form -->
+    <script>
+    function gtag_report_conversion(url) {
+      var callback = function () {
+        if (typeof(url) != 'undefined') {
+          window.location = url;
+        }
+      };
+      gtag('event', 'conversion', {
+          'send_to': 'AW-990419731/x0wKCMSQ1ssDEJO2otgD',
+          'event_callback': callback
+      });
+      return false;
+    }
+    </script>
 
   </body>
 </html>
