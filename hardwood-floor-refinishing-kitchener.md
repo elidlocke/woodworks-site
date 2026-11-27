@@ -17,7 +17,7 @@ faqs:
   - q: How much does hardwood floor refinishing cost in Kitchener?
     a: >-
       It depends on the square footage, the condition of the wood, whether you want a stain, and whether stairs or repairs are included.
-      Because every floor is different, we quote after seeing it in person. Call Woodworks at (519) 721-2776 to book an in-home quote.
+      Because every floor is different, we quote after seeing it. Virtual and in-home quotes are available: email photos of your floor to ben@woodworksrefinishing.com, or call (519) 721-2776 to book a visit.
   - q: Can you refinish hardwood in a Kitchener condo or loft?
     a: >-
       Yes. Condo and loft jobs need some extra planning, such as booking the service elevator, keeping to the building's permitted work hours, and controlling dust in shared hallways.

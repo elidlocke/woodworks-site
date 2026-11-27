@@ -24,7 +24,7 @@ faqs:
   - q: How much does hardwood floor refinishing cost in Waterloo?
     a: >-
       The price depends on the square footage, the condition of the wood, whether you want a stain, and whether stairs or repairs are included.
-      We quote after seeing the floor in person. Call Woodworks at (519) 721-2776 to book an in-home quote.
+      Every floor is different, so we quote after seeing it. Virtual and in-home quotes are available: email photos of your floor to ben@woodworksrefinishing.com, or call (519) 721-2776 to book a visit.
   - q: Is refinishing worth it before selling a Waterloo home?
     a: >-
       Often it is. Refinished hardwood photographs well and is one of the features buyers notice first, and refinishing an existing floor costs far less than installing a new one.

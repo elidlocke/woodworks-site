@@ -9,7 +9,7 @@ faqs:
     a: >-
       If the finish is dull and lightly scratched but the wood itself isn't marked, a buff and coat is usually enough.
       If you see grey or bare wood, deep scratches, pet or water stains, or you want to change the colour, the floor needs a full sand and finish.
-      Ben can tell you which one your floor needs when he comes to quote.
+      Send us a few photos, or book an in-home visit, and Ben will tell you which one your floor needs.
   - q: How long does hardwood floor refinishing take?
     a: >-
       A buff and coat is usually done in a day. For a sand and finish, sanding comes first and then three coats of finish are applied within about 36 hours.
@@ -29,7 +29,11 @@ faqs:
   - q: How much does hardwood floor refinishing cost?
     a: >-
       The price depends on the square footage, the condition of the wood, whether you want a stain, and whether stairs or repairs are included.
-      Every floor is different, so we quote after seeing it in person. Call (519) 721-2776 to book an in-home quote.
+      Every floor is different, so we quote after seeing it. Virtual and in-home quotes are available: email photos of your floor to ben@woodworksrefinishing.com, or call (519) 721-2776 to book a visit.
+  - q: Can I get a quote without an in-home visit?
+    a: >-
+      Yes. For most floors we can give a virtual quote from photos. Email a few clear photos of each room, including a close-up of any damage,
+      along with the approximate square footage, to ben@woodworksrefinishing.com. If we need a closer look, we'll arrange an in-home visit.
 ---
 
 Woodworks Hardwood Refinishing has been sanding and refinishing hardwood floors in the Waterloo Region since 2004. We are a **Bona certified contractor**, and every job uses our dustless sanding process. Ben Locke, the owner, works on every job himself.

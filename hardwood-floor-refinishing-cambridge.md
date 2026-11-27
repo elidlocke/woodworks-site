@@ -21,7 +21,7 @@ faqs:
   - q: How much does hardwood floor refinishing cost in Cambridge?
     a: >-
       The price depends on the square footage, the condition of the wood, whether you want a stain, and whether stairs or repairs are included.
-      We quote after seeing the floor in person. Call Woodworks at (519) 721-2776 to book an in-home quote.
+      Every floor is different, so we quote after seeing it. Virtual and in-home quotes are available: email photos of your floor to ben@woodworksrefinishing.com, or call (519) 721-2776 to book a visit.
   - q: Do you refinish whole houses, or just single rooms?
     a: >-
       Both. We do single rooms, hallways and stairs, and also whole houses from top to bottom.
