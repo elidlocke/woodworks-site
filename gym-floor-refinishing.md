@@ -40,8 +40,8 @@ What I look for when I give you a quote
 - **Schedule and access.** How long the gym can be closed, building access hours, and where equipment can be staged and parked.
 
 <p class="step-kicker">Step 2</p>
-## Before I arrive {#before-i-arrive}
-How to get the gym ready
+## Getting ready {#getting-ready}
+Prep to do before I start
 {: .step-sub}
 
 - **Book the closure.** Block off the gym for the whole job, including the curing time after the last coat. I'll give you the exact dates in the quote.

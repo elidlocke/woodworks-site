@@ -46,14 +46,14 @@ What I look for when I give you a quote
 - **How the room is lit and used.** Very dark floors look striking but show dust, pet hair and scratches more. Very light floors hide them better. I'll help you weigh that up for how you live.
 
 <p class="step-kicker">Step 2</p>
-## Before I arrive {#before-i-arrive}
-How to get your home ready
+## Getting ready {#getting-ready}
+Prep to do before I start
 {: .step-sub}
 
 - **Shortlist two or three colours.** Bring photos of floors you like, or tell me the look you're after. I'll suggest colours that suit your wood.
 - **Plan to be home for the samples.** After sanding, I put sample patches on your actual floor. You'll need to look at them, ideally in daylight, and choose before I go ahead. Sometimes we mix a custom blend.
 - **Think about the whole floor plan.** Decide which connected rooms, hallways and stairs should be the same colour.
-- **The usual sanding prep.** Rooms empty of furniture and rugs, fragile items off the walls, pets and kids out of the work area. The [sand and finish page](/dustless-hardwood-floor-sanding/#before-i-arrive) has the full list.
+- **The usual sanding prep.** Rooms empty of furniture and rugs, fragile items off the walls, pets and kids out of the work area. The [sand and finish page](/dustless-hardwood-floor-sanding/#getting-ready) has the full list.
 
 <p class="step-kicker">Step 3</p>
 ## On the job {#on-the-job}

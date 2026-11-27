@@ -44,8 +44,8 @@ A buff and coat only treats the finish, not the wood. So the first thing I'm che
 If a buff and coat won't give you a result you're happy with, I'll tell you before you spend the money.
 
 <p class="step-kicker">Step 2</p>
-## Before I arrive {#before-i-arrive}
-How to get your home ready
+## Getting ready {#getting-ready}
+Prep to do before I start
 {: .step-sub}
 
 - **Stop using polishes now.** From the day you book, clean only with a damp mop and a cleaner made for finished hardwood. No wax, oil soap or shine products.
