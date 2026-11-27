@@ -905,3 +905,121 @@ footer .footer-menu ul li a {
 footer .footer-menu ul li a:hover {
   color: #000;
 }
+
+/*--
+	landing pages (services + city pages)
+--*/
+#landing .landing-content {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+#landing .landing-content h2 {
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: 600;
+  margin-top: 40px;
+}
+#landing .landing-content h3 {
+  font-size: 19px;
+  font-weight: 600;
+  margin-top: 25px;
+}
+#landing .landing-content p,
+#landing .landing-content li {
+  color: #555;
+  font-size: 16px;
+  line-height: 1.7;
+}
+#landing .city-links a,
+#intro .city-links a {
+  color: #333;
+  text-decoration: underline !important;
+}
+#faq {
+  padding: 60px 0;
+  background: #f7f7f7;
+}
+#faq h2 {
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+#faq h3 {
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 25px;
+}
+#faq p {
+  color: #555;
+  font-size: 16px;
+  line-height: 1.7;
+}
+#slider .block h1 {
+  color: #fff;
+  text-align: center;
+  font-weight: 100;
+  font-size: 40px;
+  letter-spacing: 4px;
+  line-height: 50px;
+  margin-top: 0;
+  padding-bottom: 15px;
+  text-shadow: 0 0 15px rgba(0,0,0,0.5);
+}
+#slider .block p.slider-tagline {
+  font-size: 24px;
+  line-height: 32px;
+}
+header .navbar-default .navbar-nav .dropdown-menu li a {
+  padding: 8px 20px;
+}
+@media (max-width: 767px) {
+  #slider .block h1 { font-size: 26px; line-height: 34px; letter-spacing: 2px; }
+  #slider .block p.slider-tagline { font-size: 18px; line-height: 26px; }
+}
+#landing .landing-content ul,
+#landing .landing-content ol {
+  padding-left: 22px;
+  margin-bottom: 15px;
+}
+#landing .landing-content ul li { list-style: disc; }
+#landing .landing-content ol li { list-style: decimal; }
+#faq .faq-item {
+  border-bottom: 1px solid #ddd;
+}
+#faq .faq-item summary {
+  list-style: none;
+  cursor: pointer;
+  position: relative;
+  padding: 18px 36px 18px 0;
+}
+#faq .faq-item summary::-webkit-details-marker {
+  display: none;
+}
+#faq .faq-item summary h3 {
+  display: inline;
+  margin: 0;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.4;
+}
+#faq .faq-item summary::after {
+  content: "+";
+  position: absolute;
+  right: 4px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 24px;
+  color: #666;
+}
+#faq .faq-item[open] summary::after {
+  content: "\2212";
+}
+#faq .faq-item summary:focus-visible {
+  outline: 2px solid #333;
+  outline-offset: 2px;
+}
+#faq .faq-item p {
+  padding-bottom: 18px;
+  margin: 0;
+}

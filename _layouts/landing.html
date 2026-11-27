@@ -1,0 +1,86 @@
+---
+layout: default
+---
+
+{% include subpage-header.html %}
+
+<article id="landing">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-md-10 col-md-offset-1 landing-content">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+
+  {% if page.testimonials %}
+  <section id="testimonial">
+    <div class="container">
+      <div class="row">
+        <div class="testimonial-carousel">
+          <div id="testimonial-slider" class="owl-carousel">
+            {% for t in page.testimonials %}
+            <div>
+              <img class="quotation-mark pull-left" src="img/quote-start.png" alt="">
+              <img class="quotation-mark pull-right" src="img/quote-end.png" alt="">
+              <p>{{ t.quote }}</p>
+              <div class="user">
+                <p><span>{{ t.name }}</span> {{ t.where }}</p>
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  {% endif %}
+
+  {% if page.faqs %}
+  <section id="faq">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-md-10 col-md-offset-1">
+          <h2>Frequently asked questions</h2>
+          {% for f in page.faqs %}
+          <details class="faq-item">
+            <summary><h3>{{ f.q }}</h3></summary>
+            <p>{{ f.a }}</p>
+          </details>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </section>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {% for f in page.faqs %}{
+        "@type": "Question",
+        "name": {{ f.q | jsonify }},
+        "acceptedAnswer": { "@type": "Answer", "text": {{ f.a | jsonify }} }
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  }
+  </script>
+  {% endif %}
+
+  {% if page.city %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "serviceType": "Hardwood floor refinishing",
+    "name": {{ page.title | jsonify }},
+    "provider": { "@id": "{{ site.url }}/#business" },
+    "areaServed": { "@type": "City", "name": {{ page.city | jsonify }}, "containedInPlace": { "@type": "AdministrativeArea", "name": "Ontario, Canada" } },
+    "url": "{{ page.url | absolute_url }}"
+  }
+  </script>
+  {% endif %}
+
+  {% include call-to-action.html %}
+</article>
