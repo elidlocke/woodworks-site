@@ -802,10 +802,10 @@ about
   margin-right: 25px;
   font-size: 25px;
 }
-.google-map {
+.service-map {
   position: relative;
 }
-.google-map #map {
+.service-map #map {
   width: 100%;
   height: 300px;
   background-color: #fefefe;
