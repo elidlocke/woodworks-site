@@ -82,5 +82,24 @@ layout: default
   </script>
   {% endif %}
 
+  {% if page.service_type %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "serviceType": {{ page.service_type | jsonify }},
+    "name": {{ page.title | jsonify }},
+    "description": {{ page.description | jsonify }},
+    "provider": { "@id": "{{ site.url }}/#business" },
+    "areaServed": [
+      { "@type": "City", "name": "Kitchener", "containedInPlace": { "@type": "AdministrativeArea", "name": "Ontario, Canada" } },
+      { "@type": "City", "name": "Waterloo", "containedInPlace": { "@type": "AdministrativeArea", "name": "Ontario, Canada" } },
+      { "@type": "City", "name": "Cambridge", "containedInPlace": { "@type": "AdministrativeArea", "name": "Ontario, Canada" } }
+    ],
+    "url": "{{ page.url | absolute_url }}"
+  }
+  </script>
+  {% endif %}
+
   {% include call-to-action.html %}
 </article>

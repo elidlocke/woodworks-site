@@ -55,12 +55,12 @@ Converted factories and warehouses near Uptown, and the many condos and rental u
 
 ## Our services in Waterloo
 
-- **[Sand & finish](/hardwood-refinishing-services/#sand--finish):** dustless sanding, optional stain and three coats of finish.
-- **[Buff & coat](/hardwood-refinishing-services/#buff--coat):** a fast refresh for floors in good condition, ideal before listing a home.
-- **[Staining](/hardwood-refinishing-services/#staining):** choose a new colour or blend in repairs and new boards.
-- **[Repairs and matching](/hardwood-refinishing-services/#repairs--board-replacement):** replace damaged boards or extend hardwood into carpeted areas.
-- **[Stair treads](/hardwood-refinishing-services/#stair-treads)** refinished to match your floors.
-- **[Gym floors](/hardwood-refinishing-services/#gymnasium--commercial-floors)** for schools and community buildings.
+- **[Sand & finish](/dustless-hardwood-floor-sanding/):** dustless sanding, optional stain and three coats of finish.
+- **[Buff & coat](/hardwood-floor-buff-and-coat/):** a fast refresh for floors in good condition, ideal before listing a home.
+- **[Staining](/hardwood-floor-staining/):** choose a new colour or blend in repairs and new boards.
+- **[Repairs and matching](/hardwood-floor-repair/):** replace damaged boards or extend hardwood into carpeted areas.
+- **[Stair treads](/hardwood-stair-refinishing/)** refinished to match your floors.
+- **[Gym floors](/gym-floor-refinishing/)** for schools and community buildings.
 
 ## Why Waterloo homeowners choose Woodworks
 

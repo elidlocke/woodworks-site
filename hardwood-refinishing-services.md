@@ -42,6 +42,8 @@ Which service is right for you depends on two things: the condition your floor i
 
 ## Sand & Finish
 
+<img class="service-photo" src="/img/services/sand-and-finish.jpg" alt="Drum sander with a dust collection bag sanding an old hardwood floor" width="500" height="500" loading="lazy">
+
 A sand and finish is the most popular choice for bringing an old hardwood floor back to life. It removes the old finish, built-up wax, dirt and most surface damage, and gives you a floor that looks close to new.
 
 1. **Dustless sanding.** We start with a coarse grit and work up to a fine one. Careful sanding removes as little wood as possible, which matters for older floors that may have been sanded before. Our main machine is a [Lagler Hummel](/our-main-sanding-machine), chosen because it gives the flattest, most precise cut.
@@ -51,23 +53,41 @@ A sand and finish is the most popular choice for bringing an old hardwood floor 
 
 You can walk on the floor in socks about 24 hours after the last coat. Keep area rugs off for two to four weeks while the finish fully cures.
 
+[More about dustless sand & finish →](/dustless-hardwood-floor-sanding/)
+
 ## Buff & Coat
+
+<img class="service-photo" src="/img/services/buff-and-coat.jpg" alt="Floor buffer screening the finish on a hardwood floor" width="500" height="500" loading="lazy">
 
 A buff and coat suits floors that are in good shape but have lost their shine. We lightly abrade the existing finish with a buffer so a fresh coat can bond to it, then apply a new coat of finish.
 
 It's the fastest and most affordable way to get a gleaming floor back. It won't fix stains, deep scratches or bare wood, though. Those need a full sand and finish.
 
+[More about buff & coat →](/hardwood-floor-buff-and-coat/)
+
 ## Staining
+
+<img class="service-photo" src="/img/services/staining.jpg" alt="Hardwood floor showing a dark stain next to the natural wood colour" width="500" height="500" loading="lazy">
 
 Staining is an optional step in a sand and finish. It's a good way to modernize an older floor. One of our customers was amazed at how a dark stain transformed her outdated parquet. A darker stain can also help hide old water marks and pet stains that sanding can't completely remove. Ben can recommend a colour that suits your wood and your home.
 
+[More about hardwood floor staining →](/hardwood-floor-staining/)
+
 ## Repairs & Board Replacement
+
+<img class="service-photo" src="/img/services/repair.jpg" alt="Damaged hardwood boards cut out of a floor ready for replacement" width="500" height="500" loading="lazy">
 
 Badly damaged boards can be cut out and replaced. Where we can, we use reclaimed hardwood, because older wood is the closest match to the colour and age of an existing floor. When reclaimed wood isn't available, we use new boards, which age to blend in over time. Repairs are done before sanding, so the new and old boards are sanded and finished together.
 
+[More about pet stain, water damage & board repair →](/hardwood-floor-repair/)
+
 ## Stair Treads
 
+<img class="service-photo" src="/img/services/stairs.jpg" alt="Refinished hardwood stair treads stained dark with white risers" width="500" height="500" loading="lazy">
+
 Hardwood stair treads can be refinished at the same time as your main floor, so everything matches. If your risers are original solid wood, we can refinish those too. Most risers are veneer, though, and we avoid sanding veneer because it's too easy to sand through it. Spindles and railings are best left to a finish carpenter.
+
+[More about stair refinishing →](/hardwood-stair-refinishing/)
 
 ## Carpet Removal
 
@@ -75,7 +95,11 @@ A lot of homes in Kitchener, Waterloo and Cambridge have original hardwood hidin
 
 ## Gymnasium & Commercial Floors
 
+<img class="service-photo" src="/img/services/gym-lines.jpg" alt="Refinished gymnasium floor with painted game lines and a centre logo" width="500" height="500" loading="lazy">
+
 We refinish commercial floors and school gymnasiums, including sanding, painting game lines and custom logos, and applying a durable finish. We've completed gym floors for local school boards as well as retail spaces. See some of them on our [projects page](/hardwood-floor-refinishing-projects/).
+
+[More about gym & commercial floor refinishing →](/gym-floor-refinishing/)
 
 ## Where we work
 
