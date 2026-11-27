@@ -42,8 +42,8 @@ What I look for when I give you a quote
 - **How many steps, and what shape.** Straight runs, landings, winders and open-sided stairs all take different amounts of time, so they're priced differently.
 
 <p class="step-kicker">Step 2</p>
-## Before I arrive {#before-i-arrive}
-How to get your home ready
+## Getting ready {#getting-ready}
+Prep to do before I start
 {: .step-sub}
 
 - **Plan another way up and down.** This is the big one. If the stairs are the only way to the bedrooms, we'll plan the timing with you. That might mean doing the stairs in two stages, or staying somewhere else for a night.

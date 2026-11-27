@@ -55,8 +55,8 @@ Not every floor needs a full sand. When I look at your floor, in person or from 
 If your floor doesn't need the work yet, I'll tell you.
 
 <p class="step-kicker">Step 2</p>
-## Before I arrive {#before-i-arrive}
-How to get your home ready
+## Getting ready {#getting-ready}
+Prep to do before I start
 {: .step-sub}
 
 - **Empty the rooms.** All furniture, rugs and anything on the floor needs to be out of the rooms before I arrive, including the floors of any closets we're doing. My crew and I aren't movers and aren't insured to move furniture, so please arrange help or hire movers.

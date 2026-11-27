@@ -44,8 +44,8 @@ What I look for when I give you a quote
 - **Repair or stain?** Sometimes a darker [stain](/hardwood-floor-staining/) can blend minor marks well enough that replacement isn't needed. I'll give you both options if that's the case.
 
 <p class="step-kicker">Step 2</p>
-## Before I arrive {#before-i-arrive}
-How to get your home ready
+## Getting ready {#getting-ready}
+Prep to do before I start
 {: .step-sub}
 
 - **Fix the source.** Get any leaks repaired (radiators, dishwashers, windows, ice makers) before the repair is booked.
