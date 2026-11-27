@@ -55,7 +55,7 @@ Converted factories and warehouses near Uptown, and the many condos and rental u
 
 ## Our services in Waterloo
 
-- **[Sand & finish](/dustless-hardwood-floor-sanding/):** dustless sanding, optional stain and three coats of finish.
+- **[Sand & finish](/dustless-hardwood-floor-sanding/):** dustless sanding, optional stain and two coats of water-based, low-VOC finish.
 - **[Buff & coat](/hardwood-floor-buff-and-coat/):** a fast refresh for floors in good condition, ideal before listing a home.
 - **[Staining](/hardwood-floor-staining/):** choose a new colour or blend in repairs and new boards.
 - **[Repairs and matching](/hardwood-floor-repair/):** replace damaged boards or extend hardwood into carpeted areas.

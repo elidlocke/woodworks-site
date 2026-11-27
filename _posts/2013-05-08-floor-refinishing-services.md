@@ -19,7 +19,7 @@ A buff & coat is most appropriate for floors that are in good condition, but cou
 
 ## Sand & Finish
 
-A Sand & Finish process is the most popular choice for revitalizing old hardwood floors. The process consists of sanding, buffing, staining and applying several coats of finish to a floor.
+A Sand & Finish process is the most popular choice for revitalizing old hardwood floors. The process consists of sanding, buffing, staining and applying two coats of finish to a floor.
 
 A Sand & Finish process is the most popular choice for revitalizing old hardwood floors. The process consists of:
 
@@ -29,7 +29,7 @@ A Sand & Finish process is the most popular choice for revitalizing old hardwood
 
 3) Staining (optional): If a stain has been selected, the staining process commences. We can help you choose the best stain for your hardwood.
 
-4) Finishing: With our process, three coats of finish are applied within 36 hours. Drying times will vary, depending on whether you choose a water or oil-based finish. You can read more about water-based vs oil-based finishes here. After each coat of finish is applied, the floors are buffed with an abrasive screen. The perimeter of the floors is hand-sanded in preparation for each successive coat. After the final application of finish, the floor can be walked on after approximately 24 hours. Because furniture and area rugs cover larger sections of floor, we recommend that area rugs remain off the still-curing floors for 2-4 weeks.
+4) Finishing: With our process, two coats of water-based, low-VOC finish are applied within 36 hours. After each coat of finish is applied, the floors are buffed with an abrasive screen. The perimeter of the floors is hand-sanded in preparation for each successive coat. After the final application of finish, the floor can be walked on after approximately 24 hours. Because furniture and area rugs cover larger sections of floor, we recommend that area rugs remain off the still-curing floors for 2-4 weeks.
 
 ## Stair Refinishing
 

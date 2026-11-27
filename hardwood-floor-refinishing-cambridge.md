@@ -52,7 +52,7 @@ Newer houses across Cambridge often have prefinished or engineered hardwood. Pre
 
 ## Our services in Cambridge
 
-- **[Sand & finish](/dustless-hardwood-floor-sanding/):** dustless sanding, optional stain and three coats of finish.
+- **[Sand & finish](/dustless-hardwood-floor-sanding/):** dustless sanding, optional stain and two coats of water-based, low-VOC finish.
 - **[Buff & coat](/hardwood-floor-buff-and-coat/):** a quick refresh for floors in good condition.
 - **[Staining](/hardwood-floor-staining/):** from natural tones to dark, modern colours.
 - **[Repairs](/hardwood-floor-repair/):** replace damaged boards with reclaimed or new hardwood.

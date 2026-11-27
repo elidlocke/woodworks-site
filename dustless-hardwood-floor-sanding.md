@@ -74,7 +74,7 @@ What happens while I'm there
 1. **Dustless sanding.** I start with a coarse grit and work up to a fine one, removing the old finish, wax and dirt while taking off as little wood as possible. My main machine is a [Lagler Hummel](/our-main-sanding-machine), chosen because it gives the flattest, most precise cut.
 2. **Buffing.** An abrasive screen blends away the fine sanding marks so they're invisible under the finish.
 3. **Staining, if you've chosen it.** I apply samples, you approve the colour, then I stain the floor.
-4. **Finishing.** Three coats of finish go on within about 36 hours. Between coats, the floor is screened and the edges are hand-sanded so each coat bonds properly.
+4. **Finishing.** Two coats of water-based, low-VOC finish go on within about 36 hours. Between coats, the floor is screened and the edges are hand-sanded so each coat bonds properly.
 
 <p class="step-kicker">Step 4</p>
 ## Aftercare {#aftercare}

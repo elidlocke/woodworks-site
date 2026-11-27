@@ -48,7 +48,7 @@ For landlords and property managers, refinishing hardwood between tenants is oft
 
 ## Our services in Kitchener
 
-- **[Sand & finish](/dustless-hardwood-floor-sanding/):** dustless sanding, optional stain and three coats of finish.
+- **[Sand & finish](/dustless-hardwood-floor-sanding/):** dustless sanding, optional stain and two coats of water-based, low-VOC finish.
 - **[Buff & coat](/hardwood-floor-buff-and-coat/):** a quick refresh for floors in good condition.
 - **[Staining](/hardwood-floor-staining/):** update the colour of your floor or hide old stains.
 - **[Repairs](/hardwood-floor-repair/):** replace damaged boards with reclaimed or new hardwood.

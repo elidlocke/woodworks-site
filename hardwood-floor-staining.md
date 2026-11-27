@@ -63,7 +63,7 @@ What happens while I'm there
 1. **Sanding.** The floor is sanded to bare wood. Even sanding matters more for a stained floor, because stain shows any unevenness.
 2. **Samples.** I lay down sample patches and you choose your colour.
 3. **Staining.** The stain is applied to the whole floor and left to dry fully.
-4. **Finishing.** Three coats of clear finish go on top to protect the colour.
+4. **Finishing.** Two coats of clear, water-based, low-VOC finish go on top to protect the colour.
 
 <p class="step-kicker">Step 4</p>
 ## Aftercare {#aftercare}

@@ -12,7 +12,7 @@ faqs:
       Send us a few photos, or book an in-home visit, and Ben will tell you which one your floor needs.
   - q: How long does hardwood floor refinishing take?
     a: >-
-      A buff and coat is usually done in a day. For a sand and finish, sanding comes first and then three coats of finish are applied within about 36 hours.
+      A buff and coat is usually done in a day. For a sand and finish, sanding comes first and then two coats of water-based, low-VOC finish are applied within about 36 hours.
       You can walk on the floor in socks roughly 24 hours after the last coat, but area rugs should stay off for two to four weeks while the finish cures.
   - q: Is the sanding really dustless?
     a: >-
@@ -49,7 +49,7 @@ A sand and finish is the most popular choice for bringing an old hardwood floor 
 1. **Dustless sanding.** We start with a coarse grit and work up to a fine one. Careful sanding removes as little wood as possible, which matters for older floors that may have been sanded before. Our main machine is a [Lagler Hummel](/our-main-sanding-machine), chosen because it gives the flattest, most precise cut.
 2. **Buffing.** An abrasive screen blends away the fine sanding marks so they're invisible once the finish goes on.
 3. **Staining (optional).** If you'd like a new colour, we apply the stain at this point. We can help you choose.
-4. **Finishing.** Three coats of finish are applied within about 36 hours. Between coats, the floor is screened and the edges are hand-sanded so each coat bonds properly.
+4. **Finishing.** Two coats of water-based, low-VOC finish are applied within about 36 hours. Between coats, the floor is screened and the edges are hand-sanded so each coat bonds properly.
 
 You can walk on the floor in socks about 24 hours after the last coat. Keep area rugs off for two to four weeks while the finish fully cures.
 
