@@ -56,5 +56,37 @@
       source: "service-area",
       paint: { "line-color": COLOR, "line-opacity": 0.8, "line-width": 2 }
     });
+
+    // The basemap hides Waterloo's label at this zoom (it collides with
+    // Kitchener's), so draw it ourselves, to the left of "Kitchener".
+    map.addSource("waterloo-label", {
+      type: "geojson",
+      data: {
+        type: "Feature",
+        properties: { name: "Waterloo" },
+        geometry: { type: "Point", coordinates: [-80.5204, 43.4643] }
+      }
+    });
+    map.addLayer({
+      id: "waterloo-label",
+      type: "symbol",
+      source: "waterloo-label",
+      maxzoom: 9.5, // the basemap shows its own Waterloo label past this
+      layout: {
+        "text-field": ["get", "name"],
+        "text-font": ["Noto Sans Regular"],
+        "text-size": 13,
+        "text-anchor": "bottom-right",
+        "text-offset": [-1.75, 0.15],
+        "text-allow-overlap": true,
+        "text-ignore-placement": true
+      },
+      paint: {
+        "text-color": "#000",
+        "text-halo-color": "#fff",
+        "text-halo-width": 1,
+        "text-halo-blur": 1
+      }
+    });
   });
 })();
