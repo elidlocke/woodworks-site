@@ -1,0 +1,22 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HomeAndConstructionBusiness",
+  "@id": "{{ site.url }}/#business",
+  "name": {{ site.title | jsonify }},
+  "description": {{ site.description | strip | normalize_whitespace | jsonify }},
+  "url": "{{ site.url }}/",
+  "logo": "{{ site.logo | absolute_url }}",
+  "image": "{{ '/img/wood_floor_refinished_natural.jpg' | absolute_url }}",
+  "telephone": "+1-519-721-2776",
+  "email": "{{ site.email }}",
+  "founder": { "@type": "Person", "name": "Ben Locke" },
+  "areaServed": [
+    { "@type": "City", "name": "Kitchener", "containedInPlace": { "@type": "AdministrativeArea", "name": "Ontario, Canada" } },
+    { "@type": "City", "name": "Waterloo", "containedInPlace": { "@type": "AdministrativeArea", "name": "Ontario, Canada" } },
+    { "@type": "City", "name": "Cambridge", "containedInPlace": { "@type": "AdministrativeArea", "name": "Ontario, Canada" } }
+  ],
+  "knowsAbout": ["Hardwood floor refinishing", "Hardwood floor sanding", "Floor staining", "Buff and coat", "Hardwood floor repair", "Stair tread refinishing", "Gymnasium floor refinishing"],
+  "sameAs": ["{{ site.google_business_profile }}"]
+}
+</script>
