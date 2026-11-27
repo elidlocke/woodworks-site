@@ -62,12 +62,10 @@
     <script src="js/main.js"></script>
 
     {% if page.title == 'Contact' or page.title == 'Thanks!' %}
-    <!-- Google Map -->
-    <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD4tT92qtjUM01igCJoIBzaDpHAJSwmJCE"
-      type="text/javascript"
-    ></script>
-    <script src="js/google-map-init.js"></script>
+    <!-- Service area map (MapLibre + OpenFreeMap, no API key) -->
+    <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" />
+    <script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+    <script src="js/service-area-map.js"></script>
     <script src="js/google-analytics.js"></script>
     {% endif %}
     <!-- Global site tag (gtag.js) - Google Ads: 990419731 -->
