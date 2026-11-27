@@ -533,11 +533,25 @@ about
   -ms-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
 }
+#portfolio-work .block .portfolio-content ul {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin: 0;
+  padding: 0;
+}
+@media (max-width: 991px) {
+  #portfolio-work .block .portfolio-content ul {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 575px) {
+  #portfolio-work .block .portfolio-content ul {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
 #portfolio-work .block .portfolio-content ul li {
-  float: center;
-  width: 31.6%;
   overflow: hidden;
-  margin: 6px;
   position: relative;
 }
 #portfolio-work .block .portfolio-content ul li:hover .overlay {
