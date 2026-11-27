@@ -273,9 +273,6 @@ px      68    160    252    */
   #portfolio-work .block .portfolio-menu #gym-title {
   display: none;
   }
-  #portfolio-work .block .portfolio-content ul li {
-    width: 100%;
-  }
   #portfolio-work .block .portfolio-content ul li a .img-heading {
     padding: 5px 0 5px 13px;
   }
