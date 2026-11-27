@@ -33,7 +33,7 @@ faqs:
 
 From heritage homes near Uptown to family homes in newer subdivisions, Waterloo has a lot of beautiful hardwood. Woodworks Hardwood Refinishing has been refinishing hardwood floors in Waterloo since 2004, and owner Ben Locke works on every job himself.
 
-We are a **Bona certified contractor**, and our dustless sanding process keeps your home clean while we work. That matters whether you're living in the house during the job or getting it ready to sell.
+We are a **[Bona Certified Craftsman](/bona-certified-craftsman/)**, and our dustless sanding process keeps your home clean while we work. That matters whether you're living in the house during the job or getting it ready to sell.
 
 ## Waterloo homes we refinish
 
@@ -66,7 +66,7 @@ Converted factories and warehouses near Uptown, and the many condos and rental u
 
 - **Since 2004:** two decades of refinishing floors across the Waterloo Region.
 - **The owner on every job:** Ben Locke personally works on every floor.
-- **Bona certified:** trained on Bona's professional sanding and finishing systems.
+- **[Bona Certified Craftsman](/bona-certified-craftsman/):** trained by Bona on its professional sanding and finishing systems.
 - **Dustless sanding:** customers tell us how clean we leave their homes.
 - **Matching and repairs:** we can make old and new hardwood look like one floor.
 

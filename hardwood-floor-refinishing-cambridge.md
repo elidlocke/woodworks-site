@@ -30,7 +30,7 @@ faqs:
 
 Cambridge brings together three historic towns, Galt, Preston and Hespeler, and each has older homes with hardwood floors worth saving. Woodworks Hardwood Refinishing has been sanding and refinishing hardwood floors in Cambridge since 2004, and owner Ben Locke works on every job himself.
 
-As a **Bona certified contractor** using a dustless sanding process, we keep your home clean while we bring your floors back to life.
+As a **[Bona Certified Craftsman](/bona-certified-craftsman/)** using a dustless sanding process, we keep your home clean while we bring your floors back to life.
 
 ## Cambridge homes we refinish
 
@@ -63,7 +63,7 @@ Newer houses across Cambridge often have prefinished or engineered hardwood. Pre
 
 - **Since 2004:** two decades of refinishing floors across the Waterloo Region.
 - **The owner on every job:** Ben Locke personally works on every floor.
-- **Bona certified:** trained on Bona's professional sanding and finishing systems.
+- **[Bona Certified Craftsman](/bona-certified-craftsman/):** trained by Bona on its professional sanding and finishing systems.
 - **Dustless sanding:** "made zero mess," as one Cambridge homeowner put it.
 - **Respect for old floors:** careful sanding that preserves as much original wood as possible.
 

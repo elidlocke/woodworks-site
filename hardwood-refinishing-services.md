@@ -36,7 +36,7 @@ faqs:
       along with the approximate square footage, to ben@woodworksrefinishing.com. If we need a closer look, we'll arrange an in-home visit.
 ---
 
-Woodworks Hardwood Refinishing has been sanding and refinishing hardwood floors in the Waterloo Region since 2004. We are a **Bona certified contractor**, and every job uses our dustless sanding process. Ben Locke, the owner, works on every job himself.
+Woodworks Hardwood Refinishing has been sanding and refinishing hardwood floors in the Waterloo Region since 2004. We are a **[Bona Certified Craftsman](/bona-certified-craftsman/)**, and every job uses our dustless sanding process. Ben Locke, the owner, works on every job himself.
 
 Which service is right for you depends on two things: the condition your floor is in now, and the look you want when we're done. Here's what each option involves.
 

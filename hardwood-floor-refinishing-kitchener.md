@@ -26,7 +26,7 @@ faqs:
 
 Kitchener has some of the most varied hardwood in the Waterloo Region, from 100-year-old floors in brick homes near downtown to factory floors in converted lofts. Woodworks Hardwood Refinishing has been sanding and refinishing hardwood floors in Kitchener since 2004. Owner Ben Locke works on every job himself.
 
-We're a **Bona certified contractor**, and every Kitchener job uses our dustless sanding process, so your home stays clean while we work.
+We're a **[Bona Certified Craftsman](/bona-certified-craftsman/)**, and every Kitchener job uses our dustless sanding process, so your home stays clean while we work.
 
 ## Kitchener homes we refinish
 
@@ -59,7 +59,7 @@ For landlords and property managers, refinishing hardwood between tenants is oft
 
 - **Experience:** refinishing floors in the Waterloo Region since 2004.
 - **The owner on every job:** Ben Locke personally works on every floor.
-- **Bona certified:** trained on Bona's professional sanding and finishing systems.
+- **[Bona Certified Craftsman](/bona-certified-craftsman/):** trained by Bona on its professional sanding and finishing systems.
 - **Dustless sanding:** our equipment captures dust at the machine.
 - **Every scale of job:** from a single room to whole houses, stores and school gymnasiums.
 

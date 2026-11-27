@@ -946,7 +946,7 @@ footer .footer-menu ul li a:hover {
 }
 #landing .city-links a,
 #intro .city-links a,
-#intro .block p a[href="#bona-certified"] {
+#intro .block p a[href="/bona-certified-craftsman/"] {
   color: #333;
   text-decoration: underline !important;
 }
@@ -1039,65 +1039,34 @@ header .navbar-default .navbar-nav .dropdown-menu li a {
   margin: 0;
 }
 /*--
-	Bona Certified Craftsman
+	Bona Certified Craftsman page
 --*/
-#bona-certified {
-  padding: 90px 0;
-  background: #f4f5f8;
-  border-top: 4px solid #00205C;
-}
-#bona-certified .section-title {
-  margin-bottom: 30px;
-}
-#bona-certified .section-title h2 {
-  color: #00205C;
-}
-#bona-certified .bona-badge {
-  background: #fff;
-  border: 1px solid #dde1ea;
-  border-radius: 6px;
-  padding: 40px 30px;
+#landing .bona-badge {
+  margin: 10px 0 30px;
+  padding: 30px 20px;
   text-align: center;
-  box-shadow: 0 8px 24px rgba(0, 32, 92, 0.08);
+  border: 1px solid #ddd;
+  border-radius: 6px;
 }
-#bona-certified .bona-logo {
+#landing .bona-badge .bona-logo {
   width: 186px;
   max-width: 100%;
   height: auto;
 }
-#bona-certified .bona-badge-title {
-  margin: 18px 0 4px;
+#landing .landing-content .bona-badge-title {
+  margin: 16px 0 4px;
   font-family: 'Roboto', sans-serif;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 500;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #00205C;
-}
-#bona-certified .bona-badge-sub {
-  color: #666;
-  font-size: 14px;
-  line-height: 22px;
-  margin-bottom: 24px;
-}
-#bona-certified .bona-verify {
-  white-space: normal;
-}
-#bona-certified .bona-point h3 {
-  font-size: 20px;
-  font-weight: 500;
   color: #333;
-  margin: 25px 0 8px;
 }
-#bona-certified .bona-point p {
-  color: #666;
-  margin: 0;
+#landing .landing-content .bona-badge-sub {
+  color: #777;
+  font-size: 14px;
+  margin-bottom: 20px;
 }
-@media only screen and (max-width: 991px) {
-  #bona-certified {
-    padding: 60px 0;
-  }
-  #bona-certified .bona-badge-col {
-    margin-bottom: 40px;
-  }
+#landing .bona-badge .btn {
+  white-space: normal;
 }
