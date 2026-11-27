@@ -26,7 +26,7 @@ faqs:
       Yes. We've refinished hardwood in retail stores and other commercial spaces as well as gymnasiums. We'll work around your opening hours wherever we can.
 ---
 
-Gym floors take a beating, and they need to stay safe, consistent and good-looking for years. We refinish school gymnasiums and commercial hardwood floors across the Waterloo Region, including sanding, painting game lines and custom logos, and applying a durable finish. We've completed gym floors for local school boards, as well as retail spaces like the Artisan Zone store. You can see them on our [projects page](/hardwood-floor-refinishing-projects/).
+Gym floors take a beating, and they need to stay safe, consistent and good-looking for years. We refinish school gymnasiums and commercial hardwood floors across the Waterloo Region, including sanding, painting game lines and custom logos, and applying a durable finish. We've completed gym floors for local schools, as well as retail stores and other commercial spaces. You can see them on our [projects page](/hardwood-floor-refinishing-projects/).
 
 <p class="step-kicker">Step 1</p>
 ## The assessment {#assessment}
