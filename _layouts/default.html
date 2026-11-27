@@ -1,16 +1,12 @@
 <!DOCTYPE html>
-<html class="no-js">
+<html class="no-js" lang="en-CA">
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>
-      {% if page.title %}{{ page.title }}{% else %} {{ site.title }}{% endif %}
-    </title>
-    <meta
-      name="description"
-      content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"
-    />
-    <base href="{{ site.url }}" />
+    {% seo %}
+    {% if page.noindex %}<meta name="robots" content="noindex" />{% endif %}
+    {% include schema-business.html %}
+    <base href="/" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <!-- CSS -->
@@ -40,7 +36,11 @@
     <footer>
       <div class="container">
         <div class="row">
-          <div class="col-md-12">&copy Woodworks Refinishing</div>
+          <div class="col-md-12">
+            &copy; {{ site.time | date: "%Y" }} {{ site.title }} &middot;
+            Hardwood floor refinishing in Kitchener, Waterloo &amp; Cambridge, Ontario &middot;
+            <a href="tel:+15197212776">{{ site.phone }}</a>
+          </div>
         </div>
       </div>
     </footer>

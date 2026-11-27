@@ -13,14 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Woodworks Refinishing
+title: Woodworks Hardwood Refinishing
+lang: en_CA
 email: ben@woodworksrefinishing.com
 description: >- # this means to ignore newlines until "baseurl:"
     Woodworks Hardwood Refinishing offers hardwood floor refinishing services
     to homeowners, apartment building owners, businesses and public boards
-    in the Kitchener, Waterloo, Cambridge and surrounding areas of Ontario.
+    in Kitchener, Waterloo, Cambridge and the surrounding Waterloo Region, Ontario.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "woodworksrefinishing.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.woodworksrefinishing.com" # the base hostname & protocol for your site, e.g. http://example.com
+logo: /img/logo.png
+phone: "(519) 721-2776"
+google_business_profile: "https://share.google/qk5pGfTNttPWrB8gL"
 
 # Build settings
 markdown: kramdown
@@ -28,6 +32,7 @@ permalink: /:slug
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 defaults:
   -
@@ -50,3 +55,8 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
