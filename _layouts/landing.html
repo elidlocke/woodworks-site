@@ -43,8 +43,10 @@ layout: default
         <div class="col-xs-12 col-md-10 col-md-offset-1">
           <h2>Frequently asked questions</h2>
           {% for f in page.faqs %}
-          <h3>{{ f.q }}</h3>
-          <p>{{ f.a }}</p>
+          <details class="faq-item">
+            <summary><h3>{{ f.q }}</h3></summary>
+            <p>{{ f.a }}</p>
+          </details>
           {% endfor %}
         </div>
       </div>

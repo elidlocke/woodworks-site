@@ -984,3 +984,42 @@ header .navbar-default .navbar-nav .dropdown-menu li a {
 }
 #landing .landing-content ul li { list-style: disc; }
 #landing .landing-content ol li { list-style: decimal; }
+#faq .faq-item {
+  border-bottom: 1px solid #ddd;
+}
+#faq .faq-item summary {
+  list-style: none;
+  cursor: pointer;
+  position: relative;
+  padding: 18px 36px 18px 0;
+}
+#faq .faq-item summary::-webkit-details-marker {
+  display: none;
+}
+#faq .faq-item summary h3 {
+  display: inline;
+  margin: 0;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.4;
+}
+#faq .faq-item summary::after {
+  content: "+";
+  position: absolute;
+  right: 4px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 24px;
+  color: #666;
+}
+#faq .faq-item[open] summary::after {
+  content: "\2212";
+}
+#faq .faq-item summary:focus-visible {
+  outline: 2px solid #333;
+  outline-offset: 2px;
+}
+#faq .faq-item p {
+  padding-bottom: 18px;
+  margin: 0;
+}
