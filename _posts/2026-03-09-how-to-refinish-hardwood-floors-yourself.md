@@ -1,6 +1,6 @@
 ---
 title: How to refinish hardwood floors yourself (and when to call a pro)
-date: 2026-03-27 12:00
+date: 2026-03-09 12:00
 lead: "Thinking of refinishing your hardwood floors yourself? Here's what the DIY route involves, where it usually goes wrong, and the exact steps I follow on every job."
 subtitle: what the rental sander won't tell you
 ---
