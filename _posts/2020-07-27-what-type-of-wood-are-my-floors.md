@@ -1,6 +1,6 @@
 ---
 title: What type of wood are my floors?
-date: 2026-07-27 12:00
+date: 2020-07-27 12:00
 lead: "Most hardwood floors in Southern Ontario are red oak, but I also see plenty of maple, pine, birch and the odd exotic. Here's how to tell what you have, how hard it is, how much it'll yellow, and which stains suit it."
 subtitle: pine, oak, maple, walnut and more
 ---
