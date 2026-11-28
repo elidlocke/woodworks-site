@@ -168,6 +168,22 @@ about
 #post img{
   max-width: 100%;
 }
+/* Lists in posts match paragraph text so a paragraph and its bullets read as one */
+#post ul,
+#post ol{
+  margin: 0 0 10px;
+  padding-left: 25px;
+}
+#post ul{
+  list-style: disc;
+}
+#post ol{
+  list-style: decimal;
+}
+#post li{
+  font-size: 16px;
+  line-height: 28px;
+}
 #post td{
   padding: 10px;
   border: 1px solid #eee;
