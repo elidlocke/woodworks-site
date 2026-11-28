@@ -55,4 +55,4 @@ It only works over a finish that's still in one piece, though. If you can see ba
 
 ## Still not sure?
 
-Send me a photo of the floor and one looking down into a vent opening, and I can usually tell you right away whether it's worth refinishing. Or [give me a call](/contact/) and I'll come take a look. Refinishing the hardwood you already have can save you a good chunk of money compared to starting over, so it's worth checking before anybody starts tearing things out.
+Send me a photo of the floor and one looking down into a vent opening, and I can usually tell you right away whether it's worth refinishing. Or [give me a call](/contact/) and I'll come take a look. Refinishing the hardwood you already have can save you time and money compared to starting over, so it's worth checking before anybody starts tearing things out.
