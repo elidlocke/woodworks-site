@@ -1248,3 +1248,180 @@ header .navbar-default .navbar-nav .dropdown-menu li a {
 #landing .bona-badge .btn {
   white-space: normal;
 }
+
+/*--
+	Sticky header, call and quote buttons
+--*/
+header {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1030;
+  padding: 10px 0;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.08);
+}
+header .navbar-default .navbar-nav li.nav-phone a {
+  font-weight: bold;
+  color: rgb(160,82,45);
+  padding-left: 14px;
+  padding-right: 14px;
+}
+header .navbar-default .navbar-nav li.nav-quote a {
+  background-color: rgb(160,82,45);
+  color: #fff;
+  border-radius: 4px;
+  padding: 10px 18px;
+  margin-left: 6px;
+}
+header .navbar-default .navbar-nav li.nav-quote a:hover,
+header .navbar-default .navbar-nav li.nav-quote a:focus {
+  background-color: rgb(130,64,34);
+  color: #fff;
+}
+header .navbar-call-mobile {
+  float: right;
+  margin: 20px 10px 20px 0;
+  padding: 7px 12px;
+  border-radius: 4px;
+  background-color: rgb(160,82,45);
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+}
+header .navbar-call-mobile:hover,
+header .navbar-call-mobile:focus {
+  color: #fff;
+  text-decoration: none;
+  background-color: rgb(130,64,34);
+}
+/* Tighter link spacing until there's room for the default 26px */
+@media (min-width: 992px) and (max-width: 1349px) {
+  header .navbar-default .navbar-nav li a {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+/* Small phones: shrink the logo so it fits on one row with the Call and menu buttons */
+@media (max-width: 480px) {
+  header .navbar-brand img {
+    width: 160px;
+    height: auto;
+  }
+}
+@media (min-width: 992px) {
+  header .navbar-call-mobile {
+    display: none;
+  }
+}
+
+/* Collapse the menu into the hamburger below 992px (Bootstrap's default is 768px),
+   because the full menu with the phone number and quote button doesn't fit on tablets. */
+@media (max-width: 991px) {
+  header .navbar-header {
+    float: none;
+  }
+  header .navbar-default .navbar-toggle {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  header .navbar-collapse {
+    border-top: 1px solid transparent;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+  }
+  header .navbar-collapse.collapse {
+    display: none !important;
+  }
+  header .navbar-collapse.collapse.in {
+    display: block !important;
+    overflow-y: auto !important;
+  }
+  header .navbar-nav,
+  header .navbar-nav.navbar-right {
+    float: none !important;
+    margin: 7.5px -15px;
+  }
+  header .navbar-nav > li {
+    float: none;
+  }
+  header .navbar-nav > li > a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  header .navbar-nav .open .dropdown-menu {
+    position: static;
+    float: none;
+    width: auto;
+    margin-top: 0;
+    background-color: transparent;
+    border: 0;
+    box-shadow: none;
+  }
+  header .navbar-default .navbar-nav li.nav-phone {
+    display: none;
+  }
+  header .navbar-default .navbar-nav li.nav-quote a {
+    display: inline-block;
+    margin: 8px 15px;
+  }
+}
+
+/*--
+	Trust badges
+--*/
+#trust-badges {
+  background: #f7f7f7;
+  border-bottom: 1px solid #e5e5e5;
+  padding: 18px 0;
+}
+#trust-badges .trust-badge-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px 36px;
+}
+#trust-badges li,
+#trust-badges li a {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #333;
+  font-size: 15px;
+}
+#trust-badges li a:hover span {
+  text-decoration: underline;
+}
+#trust-badges .fa {
+  color: rgb(160,82,45);
+  font-size: 18px;
+}
+@media (max-width: 767px) {
+  #trust-badges .trust-badge-list {
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 10px;
+  }
+}
+/* keep in-page anchors (e.g. /#intro) from landing under the sticky header */
+html {
+  scroll-padding-top: 100px;
+}
+/* #header-nav has no side padding, so the Bootstrap .row's -15px margins
+   pushed the header 15px past the page edge and caused a horizontal scrollbar */
+#header-nav > .row {
+  margin-left: 0;
+  margin-right: 0;
+}
+/* Very small phones (e.g. 320px wide) */
+@media (max-width: 360px) {
+  header .navbar-brand img {
+    width: 125px;
+  }
+  header .navbar-call-mobile {
+    margin-right: 6px;
+  }
+}
